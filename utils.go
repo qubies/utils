@@ -8,6 +8,7 @@ import (
 	log "github.com/sirupsen/logrus"
 	"io"
 	"os"
+	"path/filepath"
 )
 
 const logLevel log.Level = log.DebugLevel
